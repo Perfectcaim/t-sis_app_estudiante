@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">T-SyS Estudiante</string>
+    <string name="title_registrar">Registrar Estudiante</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="photo_source">Seleccione Imagen</string>
+    <string name="camera">Camara</string>
+    <string name="gallery">Galeria</string>
+
+    <string name="title_reservar">RESERVAR ASESOR</string>
+    <string name="title_buscar">BUSCAR ASESOR</string>
+    <string name="title_historial">MIS SOLICITUDES</string>
+    <string name="title_perfil">CUENTA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_update">Actualizar Estudiante</string>
+</resources>

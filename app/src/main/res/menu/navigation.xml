@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_perfil"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/title_perfil" />
+
+    <item
+        android:id="@+id/navigation_reservar"
+        android:icon="@drawable/ic_carnet_black_24"
+        android:title="@string/title_reservar" />
+
+    <item
+        android:id="@+id/navigation_buscar"
+        android:icon="@drawable/ic_date_range_black_24dp"
+        android:title="@string/title_buscar" />
+
+    <item
+        android:id="@+id/navigation_historial"
+        android:icon="@drawable/ic_find_in_page_black_24dp"
+        android:title="@string/title_historial" />
+</menu>

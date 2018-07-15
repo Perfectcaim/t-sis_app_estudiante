@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary_Light">#B2DFDB</color>
+    <color name="colorAccent">#ec3070</color>
+    <color name="colorPrimary_Text">#212121</color>
+    <color name="colorSecondary_Text">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#212121</color>
+
+    <color name="ColorBackgroundRegister">#f2f2f2</color>
+    <color name="ColorBackgroundNavigation">#77818c</color>
+    <color name="ColorTextHintLogin">#757575</color>
+
+
+    <color name="ColoWhite">#FFFFFF</color>
+    <color name="Colortransparent">#00000000</color>
+    <color name="ColoreditTextBG">#dadada</color>
+    <color name="ColorHeaderLogin">#4267b2</color>
+    <color name="ColorHeaderLogin_2">#E5B009</color>
+    <color name="colorTextLogin">#212121</color>
+    <color name="colorText">#212121</color>
+    <color name="colorTextLink">#006ECC</color>
+    <color name="colorTextError">#e3000f</color>
+
+    <color name="graylight">#fafafa</color>
+    <color name="starblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+</resources>
